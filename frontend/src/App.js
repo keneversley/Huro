@@ -7,7 +7,7 @@ function App() {
   
 
   return (
-    <div className="App">
+    <div className="app">
       <div className="container">
         <div className="top">
           <div className='location'>

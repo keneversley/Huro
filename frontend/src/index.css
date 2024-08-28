@@ -169,3 +169,18 @@ h1 {
   }
 }
 
+.app button {
+  margin-top: 1rem;
+  padding: 0.7rem 1.5rem;
+  font-size: 1.2rem;
+  border-radius: 25px;
+  border: none;
+  background-color: #00aaff;
+  color: white;
+  cursor: pointer;
+}
+
+.app button:hover {
+  background-color: #007acc;
+}
+

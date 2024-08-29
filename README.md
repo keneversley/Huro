@@ -26,6 +26,8 @@ How to Use
 5. The app will show the weather information based on the searched city.
 Installation
 
+![Screenshot 2024-08-28 at 8 19 33 PM](https://github.com/user-attachments/assets/51cc5782-1635-460e-bd8d-4d91a024b5f4)
+
 
 
 

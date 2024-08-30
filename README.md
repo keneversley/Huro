@@ -10,13 +10,20 @@ Features
 4. User-friendly Interface: The weather information is displayed in a visually appealing manner, making it easy to understand and navigate.
 
 Frontend
-1. REACTjs, HTML, CSS, and JavaScript: The core technologies used for the front-end development of the app.
-2. Geolocation API: Retrieves the user's latitude and longitude coordinates to provide accurate weather data.
-3. Weather API: Retrieves weather data based on the user's location or city name.
+To run the frontend application locally: Navigate to the frontend directory: cd frontend Default Port: Install the necessary dependencies 
+1). npm install
+2).Start the frontend development server npm start
+3). The frontend application will be accessible in your browser at:T http://localhost:3000 by default.
+4). REACTjs, HTML, CSS, and JavaScript: The core technologies used for the front-end development of the app.
+5). Geolocation API: Retrieves the user's latitude and longitude coordinates to provide accurate weather data.
+6). Weather API: Retrieves weather data based on the user's location or city name.
 
 Backend
-1. Node.js provides a robust, scalable, and efficient way to build the backend of your app, handling API requests and server-side logic
-2. MYSQL offers a structured, reliable, and performant way to store and query your data, ensuring that weather data is organized and easily retrievable.
+To run the Backend application locally: Navigate to the backend directory: cd weather-backend Default Port:  
+1).Start the backend development server npm start
+2).The backend server will run on http://localhost:5001. All API endpoints are prefixed with /api, so for example, to access the weather API endpoint
+3). Node.js provides a robust, scalable, and efficient way to build the backend of your app, handling API requests and server-side logic
+4). MYSQL offers a structured, reliable, and performant way to store and query your data, ensuring that weather data is organized and easily retrievable.
 
 How to Use
 1. Open the WeatherSense Forecast website in your web browser by clicking this link for the AWS cloud deployment http://18.116.93.255

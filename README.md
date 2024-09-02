@@ -26,7 +26,7 @@ To run the Backend application locally: Navigate to the backend directory: cd we
 4). MYSQL offers a structured, reliable, and performant way to store and query your data, ensuring that weather data is organized and easily retrievable.
 
 How to Use
-1. Open the WeatherSense Forecast website in your web browser by clicking this link for the AWS cloud deployment http://18.116.93.255
+1. Open the WeatherSense Forecast website in your web browser by clicking this link for the AWS cloud deployment http://18.116.93.255 (since it's not a paid domain you have to type in the location )
 2. Grant permission for the app to access your location when prompted.(When clicking get weather by location)
 3. The app will display the current weather information for your area.
 4. To search for weather data by city name, enter the city name in the designated search bar and press Enter or click the search button.
